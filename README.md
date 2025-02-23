@@ -43,7 +43,7 @@
 - [ ] Implementing
 - [ ] Complete
 
-## Warning
+>[!warning]
 > This is a Django-Python project; do not try `npm start` or `live preview` to run it.
 
 
